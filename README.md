@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @esha-saha
-- 👀 I’m interested in exploring mathematics of machine learning algorithms and how to improve their efficiency and accuracy.
-- 🌱 I’m currently learning more about diffusion models, stability analysis of neural network models and machine learning algorithms for dynamical systems.
-- 🎓 I'm currently looking for post-doc positions or research positions in applied mathematics (machine learning based applications). My expected PhD graduation is by December 2023. I would also be up for short term internships in Summer 2023.
-- 💞️ I’m looking to collaborate on mathematical analysis of neural network based models such as diffusion models, GANs, VAEs, etc.
-- 📫 Feel free to reach out at esaha@uwaterloo.ca
+- 👀 I’m interested in exploring mathematics of machine learning algorithms and how to improve their efficiency and accuracy in data sparse applications.
+- 🌱 I’m currently working on modeling wildfire risks and spread using machine learning and PDE/dynamical systems.
+- 🎓 I'm currently a Grant Notley Postdoctoral Fellow at the Department of Mathematics and Statistics, University of Alberta.
+- ✍️ I am looking for permanent positions and open to research positions in both academia and/or industry.
+- 💞️ I work on scientific machine learning modeling of various environmental phenomena such as monitoring emissions, wildfire risk mapping, etc.
+- 📫 Feel free to reach out at esaha1@ualberta.ca
 
 <!---
 esha-saha/esha-saha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
